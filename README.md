@@ -17,7 +17,7 @@
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/your-username/Weather-App-.git
 
 # Navigate to the project directory
 cd weather-app
