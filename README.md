@@ -17,16 +17,22 @@
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/Weather-App-.git
+https://github.com/mintera10/Weather-App-.git
 
 # Navigate to the project directory
 cd weather-app
+
+# Create new virtual env
+python -m venv venv
+
+# Activate venv
+venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the app
-python weather_app.py
+streamlit run weather_app.py
 ```
 
 ---
