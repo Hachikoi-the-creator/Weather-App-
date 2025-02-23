@@ -137,8 +137,8 @@ if st.button("Submit") and place:
         if will_happen:
             st.write(f" ✅ {condition} expected in the next 5 days.")
         else:
-            st.write(f"❌ no heroku --version
-{condition} expected.")
+            st.write(f"❌ No {condition} expected in the next 5 days.")
+
 
 
     #cloud coverage, wind speed, and humidity
